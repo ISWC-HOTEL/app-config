@@ -2,9 +2,9 @@
   "_comment": "Przelaczniki zrodel danych na zywo. Zrodlo dziala tylko przy dokladnie true; brak klucza lub zly plik = wylaczone. enabled:false wylacza wszystko. message pokazuje sie w aplikacji przy wylaczonym zrodle.",
   "enabled": true,
   "updated": "2026-10-04",
-  "message": "test kill switch",
+  "message": "",
   "sources": {
-    "wrc_live": false,
+    "wrc_live": true,
     "wrc_timing": true,
     "monit_live": false,
     "monit_results": false
